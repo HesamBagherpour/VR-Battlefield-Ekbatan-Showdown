@@ -1,0 +1,3 @@
+[submodule "Assets/Submodules/Packages/input-controller-utility"]
+	path = Assets/Submodules/Packages/input-controller-utility
+	url = https://github.com/HesamBagherpour/input-controller-utility.git
